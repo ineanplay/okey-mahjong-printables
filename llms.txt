@@ -1,0 +1,14 @@
+# INEAN PLAY OKEY & Mahjong Printables
+
+Free original static PDF forms for handwriting. They record agreed rules and scores; they do not calculate game results. Languages: en, zh, tr, de. Each five-page pack covers table agreement, OKEY scores, Mahjong points and optional pool, seating, and external care.
+
+Website: https://ineanplay.com/
+Quotation: https://ineanplay.com/pages/contact
+Support: https://ineanplay.com/pages/support
+Email: service@ineanplay.com
+WhatsApp: https://wa.me/8617378390199
+
+- English: https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/en.md
+- 简体中文: https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/zh.md
+- Türkçe: https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/tr.md
+- Deutsch: https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/de.md
