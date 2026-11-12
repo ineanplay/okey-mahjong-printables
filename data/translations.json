@@ -49,10 +49,6 @@
     "next": "Next check",
     "person": "Person",
     "stop": "Smoke, burning smell, liquid ingress, shock, electrical damage or recurring jams: stop use; disconnect only if safe and seek qualified service. Do not force or repeatedly cycle the mechanism.",
-    "about": "About INEAN PLAY",
-    "short": "Free community resources from INEAN PLAY",
-    "quote": "Products / quotation",
-    "support": "Support",
     "version": "Edition 2026-11-12 | A4: 100%; Letter: fit to page | CC BY 4.0",
     "guide_title": "How to use the print pack",
     "steps": [
@@ -62,14 +58,7 @@
       "For Mahjong with shared deposits, enter pool changes separately. Conservation checks apply only when your rules define a closed point system.",
       "Use the session log for planned seating changes and the care record for external observations. Keep personal and service details private."
     ],
-    "brand": "INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.",
-    "purpose": "This project provides printable score sheets and session records for players, teachers and clubs.",
-    "product_labels": [
-      "Standard OKEY",
-      "Folding OKEY",
-      "Standard Mahjong",
-      "Folding Mahjong"
-    ]
+    "additional": "Additional agreements / notes"
   },
   "zh": {
     "title": "牌局打印资料包",
@@ -101,7 +90,7 @@
     "note": "结果／备注",
     "player": "玩家",
     "pool": "公共积分",
-    "okey": "先选经典 OKEY 或 101 Okey。每局填写带正负号的分数变动，不填累计余额。最终分数＝初始分数＋每局变动之和；提前约定高分好还是低分好。",
+    "okey": "先选经典 OKEY 或 101 Okey。每局填写带正负号的分数变动，不填累计余额。\n最终分数＝初始分数＋各局变动之和。提前约定高分好还是低分好。",
     "direction": "分数方向：高分好／低分好（圈选）",
     "example": "仅为记账示例：初始 0，变动 +12、+8，最终 20。这不是 OKEY 处罚规则。",
     "mahjong": "每局填写带正负号的积分变动。仅当规则使用公共积分时填写该列。最终余额＝初始余额＋变动之和；牌型价值仍须按所选玩法计算。",
@@ -121,10 +110,6 @@
     "next": "下次检查",
     "person": "经手人",
     "stop": "冒烟、焦味、进液、触电、电气破损或反复卡牌时停用；仅在安全情况下断电并安排专业服务。不强推机构，不反复试机。",
-    "about": "关于 INEAN PLAY",
-    "short": "INEAN PLAY 免费社区资源",
-    "quote": "产品／询价",
-    "support": "支持",
     "version": "2026-11-12 版 | A4 原尺寸；Letter 适合页面 | CC BY 4.0",
     "guide_title": "打印包使用说明",
     "steps": [
@@ -134,14 +119,7 @@
       "麻将若使用供托等公共积分，单独记录该列。只有规则构成封闭积分体系时，才要求总额守恒。",
       "座位表用于活动安排，保养表用于外部观察记录。个人资料与售后细节私下保存。"
     ],
-    "brand": "INEAN PLAY 专注于自动 OKEY 桌、自动麻将桌及相关配件，为家庭、俱乐部、咖啡馆和游戏室提供产品与使用支持。我们维护这些免费社区资源，帮助爱好者学习玩法、组织牌局和做好日常保养，欢迎大家提出纠错、翻译和改进建议。",
-    "purpose": "本项目为玩家、教学者和俱乐部提供可打印计分表与活动记录。",
-    "product_labels": [
-      "标准 OKEY",
-      "折叠 OKEY",
-      "标准麻将",
-      "折叠麻将"
-    ]
+    "additional": "其他约定／补充说明"
   },
   "tr": {
     "title": "Oyun buluşması formları",
@@ -193,10 +171,6 @@
     "next": "Sonraki kontrol",
     "person": "Kişi",
     "stop": "Duman, yanık kokusu, sıvı, elektrik çarpması, elektrik hasarı veya tekrarlayan sıkışmada durun. Yalnız güvenliyse elektriği ayırıp servis alın. Zorlamayın, tekrar tekrar çalıştırmayın.",
-    "about": "INEAN PLAY hakkında",
-    "short": "INEAN PLAY ücretsiz topluluk kaynakları",
-    "quote": "Ürünler / teklif",
-    "support": "Destek",
     "version": "2026-11-12 | A4: %100; Letter: sayfaya sığdır | CC BY 4.0",
     "guide_title": "Formları kullanma",
     "steps": [
@@ -206,14 +180,7 @@
       "Mahjongda ortak depozitolar varsa havuz değişimini ayrıca kaydedin. Sabit toplam kontrolü yalnız kapalı puan sisteminde geçerlidir.",
       "Oturma formunu plan için, bakım formunu dış gözlemler için kullanın. Kişisel ve servis bilgilerini özel tutun."
     ],
-    "brand": "INEAN PLAY; evler, kulüpler, kafeler ve oyun salonları için otomatik OKEY masaları, otomatik mahjong masaları ve uyumlu aksesuarlar sunar, ürün kullanımı konusunda destek sağlar. Oyunseverlerin kuralları öğrenmesine, oyun buluşmaları düzenlemesine ve ekipmanlarının bakımını yapmasına yardımcı olmak için ücretsiz topluluk kaynakları hazırlıyoruz. Düzeltme, çeviri ve geliştirme önerilerinizi bekliyoruz.",
-    "purpose": "Bu proje; oyuncular, eğitmenler ve kulüpler için yazdırılabilir puan ve oyun buluşması kayıtları sunar.",
-    "product_labels": [
-      "Sabit OKEY",
-      "Katlanır OKEY",
-      "Sabit mahjong",
-      "Katlanır mahjong"
-    ]
+    "additional": "Ek anlaşmalar / notlar"
   },
   "de": {
     "title": "Formulare für Spielrunden",
@@ -265,10 +232,6 @@
     "next": "Nächste Prüfung",
     "person": "Person",
     "stop": "Bei Rauch, Brandgeruch, Flüssigkeit, Stromschlag, Elektroschaden oder wiederholter Blockade stoppen. Nur gefahrlos Strom trennen und Fachservice holen. Nicht zwingen oder wiederholt testen.",
-    "about": "Über INEAN PLAY",
-    "short": "Kostenlose Community-Materialien von INEAN PLAY",
-    "quote": "Produkte / Angebot",
-    "support": "Support",
     "version": "2026-11-12 | A4: 100 %; Letter: anpassen | CC BY 4.0",
     "guide_title": "Druckpaket verwenden",
     "steps": [
@@ -278,13 +241,6 @@
       "Bei gemeinsamen Mahjong-Einsätzen Pooländerungen gesondert eintragen. Summenkontrollen gelten nur für ein geschlossenes Punktesystem.",
       "Den Sitzplan für die Organisation und das Pflegeprotokoll für äußere Beobachtungen nutzen. Personen- und Servicedaten privat halten."
     ],
-    "brand": "INEAN PLAY bietet automatische OKEY-Tische, automatische Mahjong-Tische und passendes Zubehör sowie Unterstützung bei der Nutzung für Privathaushalte, Clubs, Cafés und Spielräume. Mit kostenlosen Materialien helfen wir Spielbegeisterten beim Lernen, beim Organisieren von Spielrunden und bei der Pflege ihrer Ausrüstung. Korrekturen, Übersetzungen und Verbesserungsvorschläge sind willkommen.",
-    "purpose": "Dieses Projekt stellt Spielern, Lehrenden und Clubs druckbare Wertungsbögen und Spielprotokolle zur Verfügung.",
-    "product_labels": [
-      "OKEY fest",
-      "OKEY klappbar",
-      "Mahjong fest",
-      "Mahjong klappbar"
-    ]
+    "additional": "Weitere Vereinbarungen / Notizen"
   }
 }

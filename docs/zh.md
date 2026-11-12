@@ -2,7 +2,7 @@
 
 [English](en.md) · [简体中文](zh.md) · [Türkçe](tr.md) · [Deutsch](de.md)
 
-[PDF - 简体中文](../output/pdf/game-night-pack-zh.pdf)
+[下载中文 PDF（5页）](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-zh.pdf) · [预览中文 PDF](../output/pdf/game-night-pack-zh.pdf)
 
 先选玩法，再约定规则。这些空白表用于记录约定的分数，不自动计算，也不指定一套通用规则。
 
@@ -18,25 +18,33 @@
 - 座位与活动记录
 - 日常保养记录
 
-[OKEY](https://github.com/ineanplay/okey-guide) · [Mahjong](https://github.com/ineanplay/mahjong-guide) · [Care / 保养](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
+## 按页面填写
 
----
+| 页码 | 填写方法 |
+|---|---|
+| 1 桌规约定 | 写明玩法、版本、发牌、结束和计分方向；其他约定写在底部空白区。 |
+| 2 OKEY计分 | A/B/C/D对应固定玩家；先填初始分数，每局仅填带正负号的变动，最后求和。 |
+| 3 麻将积分 | 同样记录变动；规则没有公共积分时，该列划线留空。 |
+| 4 座位安排 | 写时间、桌号、座位对应的玩家以及先手；这不改变所选玩法的轮庄规则。 |
+| 5 日常保养 | 勾选外部检查，记录观察、处理、下次检查和经手人；周期按设备说明。 |
 
-## 关于 INEAN PLAY
+## 已填写示例：学会记变动，不重复加余额
 
-INEAN PLAY 专注于自动 OKEY 桌、自动麻将桌及相关配件，为家庭、俱乐部、咖啡馆和游戏室提供产品与使用支持。我们维护这些免费社区资源，帮助爱好者学习玩法、组织牌局和做好日常保养，欢迎大家提出纠错、翻译和改进建议。
+这是记账练习，分值假定已由牌桌规则确定，不是通用计分表。
 
-本项目为玩家、教学者和俱乐部提供可打印计分表与活动记录。
+| 行 | A | B | C | D |
+|---|---:|---:|---:|---:|
+| 初始 | 20 | 20 | 20 | 20 |
+| 第1局变动 | 0 | -2 | -2 | -2 |
+| 第2局变动 | -2 | 0 | -2 | -2 |
+| 最终 | **18** | **18** | **16** | **16** |
 
-### 产品与询价
+A的最终分数为`20+0-2=18`。不要把第1局后的20和第2局后的18再相加。高分好还是低分好，要看第1页的约定。
 
-- [标准款自动 OKEY 桌](https://ineanplay.com/products/inean-otokey)
-- [折叠款自动 OKEY 桌](https://ineanplay.com/products/inean-otokey-f)
-- [标准款自动麻将桌](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [折叠款自动麻将桌](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+麻将公共积分示例：A交1000分供托时，A填-1000，公共积分填+1000；B取得这笔供托时，B填+1000，公共积分填-1000。其他牌局支付另外记入各玩家列。仅在封闭积分体系下检查总额守恒。
 
-[官方网站](https://ineanplay.com/) · [产品询价](https://ineanplay.com/pages/contact) · [支持与说明书](https://ineanplay.com/pages/support)
+## 继续使用同语言资料
 
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [OKEY 新手指南](https://github.com/ineanplay/okey-guide/blob/main/community/zh.md)
+- [麻将新手指南](https://github.com/ineanplay/mahjong-guide/blob/main/community/zh.md)
+- [日常保养指南](https://github.com/ineanplay/automatic-mahjong-table-knowledge/blob/main/community/zh.md)

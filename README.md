@@ -1,64 +1,31 @@
-# OKEY & Mahjong Printables
+# OKEY & Mahjong Printables / 牌局打印资料
 
-Free, reusable forms for a real game night: agree the rules, record OKEY scores, track Mahjong points, plan seating and keep an external-care log. No account or purchase is needed. Download the PDF and print only the pages you need.
+Clean, free handwriting sheets for players and clubs. No advertising, no signup, no purchase.
 
-## Download / 下载 / İndir / Herunterladen
+干净、免费的玩家与俱乐部手写表格，无广告，无需注册或购买。
 
-| Language | Five-page A4 pack | Instructions |
+## Choose your language / 选择语言
+
+| Language | Download | Instructions and examples |
 |---|---|---|
-| English | [PDF](output/pdf/game-night-pack-en.pdf) | [English](docs/en.md) |
-| 简体中文 | [PDF](output/pdf/game-night-pack-zh.pdf) | [简体中文](docs/zh.md) |
-| Türkçe | [PDF](output/pdf/game-night-pack-tr.pdf) | [Türkçe](docs/tr.md) |
-| Deutsch | [PDF](output/pdf/game-night-pack-de.pdf) | [Deutsch](docs/de.md) |
+| English | [Download the English PDF (5 pages)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-en.pdf) | [How to fill in the forms, with examples](docs/en.md) |
+| 简体中文 | [下载中文 PDF（5页）](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-zh.pdf) | [填表方法与已填写示例](docs/zh.md) |
+| Türkçe | [Türkçe PDF indir (5 sayfa)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-tr.pdf) | [Form doldurma ve tamamlanmış örnekler](docs/tr.md) |
+| Deutsch | [Deutsches PDF herunterladen (5 Seiten)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-de.pdf) | [Formulare ausfüllen: Anleitung und Beispiele](docs/de.md) |
 
-Use actual size for A4 or fit-to-page for US Letter. The PDFs are static handwriting sheets, not interactive forms. No commercial annual Mahjong card or third-party scoring chart is included.
+Each pack has five pages. Print A4 at actual size, or fit to US Letter. Static forms for handwriting.
 
-## What's inside
+每册5页，A4按实际尺寸打印，US Letter选择适合页面。表格用于手写。
 
-1. Table agreement: named rules, tile selection, opening, claims, scoring and end conditions.
-2. OKEY score record: four players, starting values, signed changes for 12 hands, final totals.
-3. Mahjong points ledger: four players plus an optional shared pool, with a point-conservation example.
-4. Seating and session log: eight entries for the host's own seat/table plan; no automatic pairing or dealer rule.
-5. Everyday care record: external checks, observations, action and next inspection under the model manual.
+## What you can do / 可以完成什么
 
-Choose the score direction before play. These forms record your agreed rules; they do not calculate legal hands or impose one universal scoring system. Keep personal and service records private.
+Table agreement · OKEY scores · Mahjong points · Seating · Everyday care
 
-## Learn and care
+桌规约定 · OKEY计分 · 麻将积分 · 座位安排 · 日常保养
 
-- [OKEY beginner pack](https://github.com/ineanplay/okey-guide/tree/main/community)
-- [Mahjong beginner pack](https://github.com/ineanplay/mahjong-guide/tree/main/community)
-- [Everyday care guide](https://github.com/ineanplay/automatic-mahjong-table-knowledge/tree/main/community)
+## Project information / 项目信息
 
-## Edit and rebuild
-
-Original text lives in `data/translations.json`. The PDF layout lives in `scripts/build_pdfs.py`. Use Python 3 and install `requirements.txt`; then run:
-
-```sh
-python -m pip install -r requirements.txt
-python scripts/build_pdfs.py --font /path/to/latin.ttf --bold-font /path/to/latin-bold.ttf --cjk-font /path/to/chinese.ttf
-```
-
-The Latin fonts must include German and Turkish characters. The Chinese font must include simplified Chinese and Latin characters; a TrueType `.ttc` collection is supported with `--cjk-index`. Fonts are embedded in the generated PDF but are not supplied in this source repository. Use fonts whose embedding terms permit your use. Inspect all pages after changing translations or fonts.
-
-Original content and forms: [CC BY 4.0](LICENSE.md). Generator code: [MIT](LICENSE-CODE). Third-party material and trademarks retain their own rights. [Contribute corrections or translations](CONTRIBUTING.md).
-
----
-
-## About INEAN PLAY
-
-INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.
-
-This project provides printable score sheets and session records for players, teachers and clubs.
-
-### Products and quotations
-
-- [Standard OKEY table](https://ineanplay.com/products/inean-otokey)
-- [Folding OKEY table](https://ineanplay.com/products/inean-otokey-f)
-- [Standard Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [Folding Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
-
-[Official website](https://ineanplay.com/) · [Request a quote](https://ineanplay.com/pages/contact) · [Support and manuals](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [About the maintainer / 关于维护者](ABOUT.md)
+- [Corrections and contributions / 纠错与参与](CONTRIBUTING.md)
+- [Source and build instructions / 源文件与生成说明](BUILD.md)
+- [Reuse license / 转载许可](LICENSE.md)

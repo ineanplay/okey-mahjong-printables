@@ -2,7 +2,7 @@
 
 [English](en.md) · [简体中文](zh.md) · [Türkçe](tr.md) · [Deutsch](de.md)
 
-[PDF - Deutsch](../output/pdf/game-night-pack-de.pdf)
+[Deutsches PDF herunterladen (5 Seiten)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-de.pdf) · [Deutsches PDF ansehen](../output/pdf/game-night-pack-de.pdf)
 
 Vor dem Austeilen Spiel und Regeln festlegen. Diese leeren Formulare halten vereinbarte Punkte fest; sie berechnen keine Werte und geben kein einheitliches Regelwerk vor.
 
@@ -18,25 +18,33 @@ Vor dem Austeilen Spiel und Regeln festlegen. Diese leeren Formulare halten vere
 - Sitz- und Rundenplan
 - Pflegeprotokoll
 
-[OKEY](https://github.com/ineanplay/okey-guide) · [Mahjong](https://github.com/ineanplay/mahjong-guide) · [Care / 保养](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
+## Die Seiten ausfüllen
 
----
+| Seite | Eintrag |
+|---|---|
+| 1 Vereinbarung | Spiel/Version, Austeilen, Abschluss und Wertungsrichtung; Ergänzungen ins Notizfeld. |
+| 2 OKEY | A/B/C/D bleiben denselben Spielern zugeordnet. Startwerte, Änderungen mit Vorzeichen, abschließend Summen. |
+| 3 Mahjong | Ebenfalls Änderungen; ohne Tischpool die Spalte streichen. |
+| 4 Sitzplan | Zeit, Tisch, Sitzzuordnung und Startspieler; ersetzt keine Ostwechselregel. |
+| 5 Pflege | Äußere Kontrollen, Beobachtung, Maßnahme, nächste Prüfung und Person; Intervalle laut Modellanleitung. |
 
-## Über INEAN PLAY
+## Ausgefülltes Beispiel: Änderung ist nicht Zwischenstand
 
-INEAN PLAY bietet automatische OKEY-Tische, automatische Mahjong-Tische und passendes Zubehör sowie Unterstützung bei der Nutzung für Privathaushalte, Clubs, Cafés und Spielräume. Mit kostenlosen Materialien helfen wir Spielbegeisterten beim Lernen, beim Organisieren von Spielrunden und bei der Pflege ihrer Ausrüstung. Korrekturen, Übersetzungen und Verbesserungsvorschläge sind willkommen.
+Eine Rechenübung: Die Änderungen seien bereits nach Tischregel bestimmt. Dies ist kein allgemeiner Wertungstarif.
 
-Dieses Projekt stellt Spielern, Lehrenden und Clubs druckbare Wertungsbögen und Spielprotokolle zur Verfügung.
+| Zeile | A | B | C | D |
+|---|---:|---:|---:|---:|
+| Start | 20 | 20 | 20 | 20 |
+| Änderung Hand 1 | 0 | -2 | -2 | -2 |
+| Änderung Hand 2 | -2 | 0 | -2 | -2 |
+| Ende | **18** | **18** | **16** | **16** |
 
-### Produkte und Angebote
+Für A gilt `20+0-2=18`. Nicht den Zwischenstand 20 zum späteren Stand 18 addieren. Ob hoch oder niedrig besser ist, steht auf Seite 1.
 
-- [OKEY-Tisch mit festem Untergestell](https://ineanplay.com/products/inean-otokey)
-- [Klappbarer OKEY-Tisch](https://ineanplay.com/products/inean-otokey-f)
-- [Mahjong-Tisch mit festem Untergestell](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [Klappbarer Mahjong-Tisch](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+Mahjong-Pool: Zahlt A 1.000 ein, A -1.000 und Pool +1.000 notieren. Erhält B diesen Einsatz, B +1.000 und Pool -1.000 notieren. Andere Zahlungen getrennt in den Spielerspalten erfassen. Eine konstante Summe gilt nur für ein geschlossenes Punktesystem.
 
-[Offizielle Website](https://ineanplay.com/) · [Angebot anfordern](https://ineanplay.com/pages/contact) · [Support und Anleitungen](https://ineanplay.com/pages/support)
+## Auf Deutsch weiterlesen
 
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [OKEY-Einstieg](https://github.com/ineanplay/okey-guide/blob/main/community/de.md)
+- [Mahjong-Einstieg](https://github.com/ineanplay/mahjong-guide/blob/main/community/de.md)
+- [Anleitung zur Alltagspflege](https://github.com/ineanplay/automatic-mahjong-table-knowledge/blob/main/community/de.md)

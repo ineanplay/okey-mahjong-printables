@@ -2,7 +2,7 @@
 
 [English](en.md) · [简体中文](zh.md) · [Türkçe](tr.md) · [Deutsch](de.md)
 
-[PDF - English](../output/pdf/game-night-pack-en.pdf)
+[Download the English PDF (5 pages)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-en.pdf) · [Preview the English PDF](../output/pdf/game-night-pack-en.pdf)
 
 Choose the game and record its rules before dealing. These blank forms organize agreed scores; they do not calculate or prescribe a ruleset.
 
@@ -18,25 +18,33 @@ Choose the game and record its rules before dealing. These blank forms organize 
 - Seating and session log
 - Everyday care record
 
-[OKEY](https://github.com/ineanplay/okey-guide) · [Mahjong](https://github.com/ineanplay/mahjong-guide) · [Care / 保养](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
+## Fill each page
 
----
+| Page | What to enter |
+|---|---|
+| 1 Agreement | Game/version, dealing, finish and scoring direction; use the notes area for extra decisions. |
+| 2 OKEY | Keep A/B/C/D assigned to the same players. Enter starting values, signed changes per hand, then final sums. |
+| 3 Mahjong | Record changes too; cross out the pool column if your rules do not use it. |
+| 4 Seating | Time, table, player-to-seat assignments and starter; this does not override dealer rules. |
+| 5 Care | External checks, observations, action, next check and person; follow model intervals. |
 
-## About INEAN PLAY
+## Filled example: changes are not balances
 
-INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.
+This is bookkeeping practice. Assume the table rules have already determined these changes; it is not a universal scoring tariff.
 
-This project provides printable score sheets and session records for players, teachers and clubs.
+| Row | A | B | C | D |
+|---|---:|---:|---:|---:|
+| Start | 20 | 20 | 20 | 20 |
+| Hand 1 change | 0 | -2 | -2 | -2 |
+| Hand 2 change | -2 | 0 | -2 | -2 |
+| Final | **18** | **18** | **16** | **16** |
 
-### Products and quotations
+For A: `20+0-2=18`. Do not add the intermediate balance of 20 to the later balance of 18. Page 1 states whether higher or lower is better.
 
-- [Standard OKEY table](https://ineanplay.com/products/inean-otokey)
-- [Folding OKEY table](https://ineanplay.com/products/inean-otokey-f)
-- [Standard Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [Folding Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+Mahjong pool example: when A deposits 1,000, record A -1,000 and pool +1,000. When B receives that deposit, record B +1,000 and pool -1,000. Record other hand payments separately in player columns. A constant total is required only in a closed point system.
 
-[Official website](https://ineanplay.com/) · [Request a quote](https://ineanplay.com/pages/contact) · [Support and manuals](https://ineanplay.com/pages/support)
+## Continue in English
 
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [OKEY beginner guide](https://github.com/ineanplay/okey-guide/blob/main/community/en.md)
+- [Mahjong beginner guide](https://github.com/ineanplay/mahjong-guide/blob/main/community/en.md)
+- [Everyday care](https://github.com/ineanplay/automatic-mahjong-table-knowledge/blob/main/community/en.md)
